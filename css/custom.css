@@ -1,0 +1,29 @@
+/* your styles go here */
+
+
+.Comp1 {
+    color: orangered;
+}
+.Comp2 {
+    color: rgb(88, 14, 136);
+}
+.Comp3 {
+    color: rgb(255, 213, 0);
+}
+.Comp4 {
+    color: rgb(111, 0, 185);
+}
+.Comp5 {
+    color: rgb(26, 19, 122);
+}
+.Comp6 {
+    color: rgb(105, 230, 226);
+}
+.ColorText {
+    color: black;
+}
+
+.TailleV {
+    width: 600px;
+    height: 400px;
+}
