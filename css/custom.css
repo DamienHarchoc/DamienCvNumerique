@@ -27,3 +27,18 @@
     width: 600px;
     height: 400px;
 }
+
+.imageFlower {
+    background-image: url(../img/Shooting6.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.imageNeon {
+    background-image: url(../img/NEON8.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
